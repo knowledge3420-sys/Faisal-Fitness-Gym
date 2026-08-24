@@ -43,7 +43,7 @@ export const trainers: Trainer[] = [
     specialization: "e.g. Women's Fitness & Mobility",
     experience: "e.g. 4+ years on the floor",
     bio: "A short bio about training style, approach and focus goes here — ready to be replaced with the real profile.",
-    image: "/images/class-personal.jpg",
+    image: "/images/trainer-2.jpg",
     socials: placeholderSocials,
   },
   {
@@ -52,7 +52,7 @@ export const trainers: Trainer[] = [
     specialization: "e.g. Cardio & Endurance",
     experience: "e.g. 3+ years on the floor",
     bio: "A short bio about training style, approach and focus goes here — ready to be replaced with the real profile.",
-    image: "/images/class-fitness.jpg",
+    image: "/images/trainer-3.jpg",
     socials: placeholderSocials,
   },
   {
@@ -61,7 +61,7 @@ export const trainers: Trainer[] = [
     specialization: "e.g. Personal Training",
     experience: "e.g. 6+ years on the floor",
     bio: "A short bio about training style, approach and focus goes here — ready to be replaced with the real profile.",
-    image: "/images/about-1.jpg",
+    image: "/images/trainer-4.jpg",
     socials: placeholderSocials,
   },
 ];

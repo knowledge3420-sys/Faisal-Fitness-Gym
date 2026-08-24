@@ -115,7 +115,7 @@ export default function TrainersPage() {
           </>
         }
         description="The training team at Faisal Fitness Gym is here to make sure every session is safe, purposeful and effective. Team profiles are being finalized — the cards below show each role, ready for the real names and stories."
-        image="/images/trainer-1.jpg"
+        image="/images/trainer-4.jpg"
       />
 
       <section className="pb-20 md:pb-28">
@@ -195,7 +195,7 @@ export default function TrainersPage() {
         primaryHref="/membership"
         secondaryLabel="Call Now"
         secondaryHref={site.phoneHref}
-        image="/images/class-personal.jpg"
+        image="/images/trainer-3.jpg"
       />
     </>
   );

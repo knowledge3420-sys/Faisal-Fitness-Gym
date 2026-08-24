@@ -274,8 +274,8 @@ export default function AboutPage() {
           <Reveal delay={0.1}>
             <div className="relative h-[360px] overflow-hidden rounded-3xl md:h-[440px]">
               <Image
-                src="/images/class-personal.jpg"
-                alt="A coach guiding a member through a barbell session"
+                src="/images/gallery-5.jpg"
+                alt="Members training across the gym floor"
                 fill
                 sizes="(min-width: 1024px) 50vw, 100vw"
                 className="object-cover"
